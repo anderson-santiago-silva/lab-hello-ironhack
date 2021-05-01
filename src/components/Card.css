@@ -1,0 +1,21 @@
+.container-card {
+  width: 200px;
+}
+
+.container-card img {
+  width: 110px;
+  height: auto;
+}
+
+.container-card h3 {
+  color: #1e2333;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+.container-card p {
+  color: #7c7c7c;
+  font-size: 16px;
+  margin-top: 10px;
+  width: 85%;
+}
